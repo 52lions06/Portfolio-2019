@@ -53,7 +53,7 @@ const Home = () => {
             <span> also like to drink beer</span>
             <Typing.Delay ms={2000} />
             <Typing.Backspace count={10} />
-            <span>I poop from time to time</span>
+            <span>I party from time to time</span>
           </Typing>
         </div>
       </div>
