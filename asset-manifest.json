@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.30cdb6e4.chunk.css",
+    "main.js": "/static/js/main.e1cba9e0.chunk.js",
+    "main.js.map": "/static/js/main.e1cba9e0.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.daaf4d4d.js",
+    "runtime~main.js.map": "/static/js/runtime~main.daaf4d4d.js.map",
+    "static/js/2.6b631bec.chunk.js": "/static/js/2.6b631bec.chunk.js",
+    "static/js/2.6b631bec.chunk.js.map": "/static/js/2.6b631bec.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.67d975f258c83b26f37c186e5f440ba5.js": "/precache-manifest.67d975f258c83b26f37c186e5f440ba5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.30cdb6e4.chunk.css.map": "/static/css/main.30cdb6e4.chunk.css.map",
+    "static/media/Belp.png": "/static/media/Belp.d62d1444.png",
+    "static/media/Notehero.png": "/static/media/Notehero.5c863f05.png",
+    "static/media/William_McKelvey_Developer*.pdf": "/static/media/William_McKelvey_Developer*.c7019cbb.pdf",
+    "static/media/happy.gif": "/static/media/happy.ac65677c.gif",
+    "static/media/savage.png": "/static/media/savage.54a19735.png",
+    "static/media/stylesheet.css": "/static/media/ultimategameplayer-pixel-webfont.ea8ae5e0.woff2",
+    "static/media/wm_black_badge.png": "/static/media/wm_black_badge.d433daa0.png"
+  }
+}
